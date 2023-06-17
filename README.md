@@ -1,5 +1,7 @@
 # DFT (Density Functional Theory) tutorial code in Python
 
+入门DFT数值计算原理与代码，这是最简单的项目
+
 ![](./img/psi.png)
 
 - [Jupyter Notebook](./numpy_1ddft.ipynb) ([Japanese](./numpy_1ddft_jp.ipynb))
